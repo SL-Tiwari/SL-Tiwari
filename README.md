@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sahil Tiwari</h1>
-<h3 align="center">Hi! I'm a software engineer with a passion for full-stack development and AI technologies. My journey began with telecom technologies and has since evolved into designing, coding, and testing web applications and backend systems. I'm experienced in both front-end and back-end technologies, always eager to learn and implement cutting-edge solutions. My long-term goal is to master React and Java to become a full-stack developer, and I enjoy building impactful solutions that merge software engineering and AI. Here, you'll find my projects reflecting my growth in the tech space. Let's connect and create something amazing!</h3>
+<h3 align="center">I'm a software engineer passionate about full-stack development and AI technologies. My journey started with telecom technologies and has since evolved into designing, coding, and testing web applications and backend systems. I have experience in both front-end and back-end technologies, and I'm always eager to learn and implement cutting-edge solutions. My long-term goal is to master React and Java to become a full-stack developer. I enjoy building impactful solutions that merge software engineering and AI. Here, you'll find projects that reflect my growth in the tech space. Let's connect and create something amazing!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiltiwari&label=Profile%20views&color=0e75b6&style=flat" alt="sahiltiwari" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sahiltiwari&label=Profile%20views&color=0e75b6&style=flat" alt="sahiltiwari" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sahil-tiw/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/SL-Tiwari/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sahil-tiw/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://github.com/SL-Tiwari/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,5 +49,15 @@
   </a> 
 </p>
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  <ul>
+    <li>Salesforce Certified AI Associate</li>
+    <li>Currently learning the Microsoft Azure Developer Path</li>
+  </ul>
+</p>
 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/sahiltiwari98?ext=heatmap)  
+<h3 align="left">Leetcode Stats:</h3>
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/sahiltiwari98?ext=heatmap" alt="Leetcode Stats" />
+</p>
