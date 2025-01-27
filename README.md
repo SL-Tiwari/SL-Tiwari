@@ -53,6 +53,7 @@
 <p align="left">
   <ul>
     <li>Salesforce Certified AI Associate</li>
+    <li>Salesforce Certified AI Specialist</li>
     <li>Currently learning the Microsoft Azure Developer Path</li>
   </ul>
 </p>
