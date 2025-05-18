@@ -98,10 +98,5 @@
   <img src="https://leetcard.jacoblin.cool/sahiltiwari98?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SL-Tiwari&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ### 🧩 Fun Fact
 🧠 I believe every bug teaches something new – debug, learn, repeat!
