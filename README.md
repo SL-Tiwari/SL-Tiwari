@@ -1,64 +1,57 @@
 <h1 align="center">Hi 👋, I'm Sahil Tiwari</h1>
-<h3 align="center">I'm a software engineer passionate about full-stack development and AI technologies. My journey started with telecom technologies and has since evolved into designing, coding, and testing web applications and backend systems. I have experience in both front-end and back-end technologies, and I'm always eager to learn and implement cutting-edge solutions. My long-term goal is to master React and Java to become a full-stack developer. I enjoy building impactful solutions that merge software engineering and AI. Here, you'll find projects that reflect my growth in the tech space. Let's connect and create something amazing!</h3>
+<h3 align="center">🚀 Full Stack Developer | ☁️ AI & Cloud Enthusiast | 💡 Lifelong Learner</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sahiltiwari&label=Profile%20views&color=0e75b6&style=flat" alt="sahiltiwari" /> 
+<p align="center">
+  <em>I’m a passionate software engineer with a knack for solving problems through code. My journey started in telecom technologies and evolved into building scalable web apps and AI-powered solutions. With experience across both frontend and backend development, I enjoy bringing ideas to life using React, Java, Spring Boot, and cloud platforms like Firebase and Azure.</em>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+- 👨‍💻 I’m currently working as a Software Engineering Intern at Reality AI Labs via RadicalX  
+- 🌐 I specialize in **Java Full Stack Development** (Java, Spring Boot, React, Firebase)
+- 🤖 Passionate about integrating **AI** into practical, impactful solutions  
+- 📈 Continuously learning and building, one project at a time  
+- 🎯 **Goal**: To become a skilled Full Stack Engineer with expertise in React and Java  
+- 🛠️ Love solving optimization problems and contributing to open-source
+
+### 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sahil-tiw/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SL-Tiwari/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3 align="left">Certifications:</h3>
+### 🧠 Languages & Tools
 <p align="left">
-  <ul>
-    <li>Salesforce Certified AI Associate</li>
-    <li>Salesforce Certified AI Specialist</li>
-    <li>Currently learning the Microsoft Azure Developer Path</li>
-  </ul>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
 </p>
 
-<h3 align="left">Leetcode Stats:</h3>
+### 📜 Certifications
+- 🧠 **Salesforce Certified AI Associate**  
+- 🤖 **Salesforce Certified AI Specialist**  
+- ☁️ **Microsoft Azure Developer Path** *(In Progress)*  
+- 🏅 **Full Stack Development with React & Spring Boot** *(Self-Paced Projects)*
+
+### 📊 LeetCode Stats
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/sahiltiwari98?ext=heatmap" alt="Leetcode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sahiltiwari98?ext=heatmap" alt="LeetCode Stats" />
 </p>
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SL-Tiwari&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🧩 Fun Fact
+🧠 I believe every bug teaches something new – debug, learn, repeat!
