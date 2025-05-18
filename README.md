@@ -40,7 +40,7 @@
 ### 📜 Certifications
 - 🧠 **Salesforce Certified AI Associate**  
 - 🤖 **Salesforce Certified AI Specialist**  
-- ☁️ **Microsoft Azure Developer Path** *(In Progress)*  
+- ☁️ **Microsoft Azure Developer Path**  
 - 🏅 **Full Stack Development with React & Spring Boot** *(Self-Paced Projects)*
 
 ### 📊 LeetCode Stats
